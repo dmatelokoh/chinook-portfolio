@@ -107,7 +107,7 @@ The original Chinook schema is unchanged:
 
 **What I'm building right now:**
 
-[CURRENT PHASE: Option A — Setup + Data Generation]
+CURRENT PHASE: Phase 0: Setup + Synthetic Data Expansion (Days 31–42)
 
 (Keep all options below for reference. Update the line above when switching phases.)
 
